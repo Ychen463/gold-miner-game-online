@@ -93,7 +93,9 @@ You need to pass 5 levels in 20 seconds to win. High scores are stored in the da
 ## Game Log Stored
 Your records would be stored. The ranking includes yours and other players.
 <img src="./PresentationScreenshots/Ranking/NewRecordGeneratedAfterGame.png" alt="NewRecordGeneratedAfterGame" width="600"/>
+
 Ranking compared with other users
+
 <img src="./PresentationScreenshots/Ranking.gif" alt="Ranking" width="600"/>
 
 
