@@ -90,14 +90,12 @@ You start the game with 3 bottles of water. Water can be used to accelerate the 
 
 You need to pass 5 levels in 20 seconds to win. High scores are stored in the database and displayed in the ranking.
 
-## Game Log Stored
-Your records would be stored. The ranking includes yours and other players.
+## Game Log Stored, compare with other users
+Your records would be stored. The Leaderboard includes you and other players.
 <img src="./PresentationScreenshots/Ranking/NewRecordGeneratedAfterGame.png" alt="NewRecordGeneratedAfterGame" width="600"/>
 
-Ranking compared with other users
+Leaderboard
 <img src="./PresentationScreenshots/Ranking.gif" alt="Ranking" width="600"/>
-
-
 
 
 
