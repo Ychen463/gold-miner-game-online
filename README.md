@@ -56,12 +56,15 @@ Or you can register your own account. Game records will be stored under your acc
 - The password doesn't match the one in the database
 
 <img src="./PresentationScreenshots/UserLogIn/UserLogInWrongPw.gif" alt="UserLogInWrongPw" width="600"/>
+
 ## User Register
 - The password doesn't match the one in the database
 
 <img src="./PresentationScreenshots/UserLogIn/UserRegisterExisted.gif" alt="UserRegisterExisted" width="600"/>
 - User Registered, created in DB
+
 <img src="./PresentationScreenshots/UserLogIn/UserRegister_NewAdded.png" alt="UserRegister_NewAdded" width="600"/>
+
 ## Menu Bar
 
 The menu bar displays your username and provides options for "Log In", "Restart", "Exit", and "Ranking".
@@ -80,10 +83,15 @@ The menu bar displays your username and provides options for "Log In", "Restart"
 
 You start the game with 3 bottles of water. Water can be used to accelerate the hauling process. Additional water can be purchased between levels.
 - Shop Interface
+
 <img src="./PresentationScreenshots/Shop/ShopInterface.png" alt="ShopInterface" width="600"/>
+
 - Price is generated randomly
+
 <img src="./PresentationScreenshots/Shop/PriceRandomlyGenerated.png" alt="PriceRandomlyGenerated" width="600"/>
+
 - Number of Items changed after shopping
+
 <img src="./PresentationScreenshots/Shop/AfterShopNumChanged.png" alt="AfterShopNumChanged" width="600"/>
 
 ## How to Win
