@@ -17,7 +17,10 @@ The Gold Miner is a classic point-based game developed in Java. The game feature
 2. Use the following credentials for the database:
     - Username: `root`
     - Password: `root1234`
-    ![Database](./PresentationScreenshots/Database/SetupDB.png)
+
+
+<img src="./PresentationScreenshots/Database/SetupDB.png" alt="Database" width="600"/>
+
 3. Run the command: 
     ```bash
     mysql -u root -p root1234 database_name < filename.sql
