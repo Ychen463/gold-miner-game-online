@@ -95,7 +95,6 @@ Your records would be stored. The ranking includes yours and other players.
 <img src="./PresentationScreenshots/Ranking/NewRecordGeneratedAfterGame.png" alt="NewRecordGeneratedAfterGame" width="600"/>
 
 Ranking compared with other users
-
 <img src="./PresentationScreenshots/Ranking.gif" alt="Ranking" width="600"/>
 
 
