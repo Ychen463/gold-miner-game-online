@@ -29,7 +29,7 @@ The Gold Miner is a classic point-based game developed in Java. The game feature
 - Java 19.0 (openjdk 19.0)
 - MySQL: mysql-connector-j-8.0.31.jar
 - Eclipse: org.eclipse.jdt.launching.JRE_CONTAINER
-<img src="./PresentationScreenshots/HierachyTree.png" alt="hierachy_tree" width="500"/>
+<img src="./PresentationScreenshots/HierachyTree.png" alt="hierachy_tree" width="900"/>
 
 ## Advanced Concepts
 
@@ -54,12 +54,14 @@ Or you can register your own account. Game records will be stored under your acc
 
 ### User Login
 - The password doesn't match the one in the database
-    <img src="./PresentationScreenshots/UserLogIn/UserLogInWrongPw.gif" alt="UserLogInWrongPw" width="600"/>
+
+<img src="./PresentationScreenshots/UserLogIn/UserLogInWrongPw.gif" alt="UserLogInWrongPw" width="600"/>
 ## User Register
 - The password doesn't match the one in the database
-    <img src="./PresentationScreenshots/UserLogIn/UserRegisterExisted.gif" alt="UserRegisterExisted" width="600"/>
+
+<img src="./PresentationScreenshots/UserLogIn/UserRegisterExisted.gif" alt="UserRegisterExisted" width="600"/>
 - User Registered, created in DB
-    <img src="./PresentationScreenshots/UserLogIn/UserRegister_NewAdded.png" alt="UserRegister_NewAdded" width="600"/>
+<img src="./PresentationScreenshots/UserLogIn/UserRegister_NewAdded.png" alt="UserRegister_NewAdded" width="600"/>
 ## Menu Bar
 
 The menu bar displays your username and provides options for "Log In", "Restart", "Exit", and "Ranking".
@@ -78,11 +80,11 @@ The menu bar displays your username and provides options for "Log In", "Restart"
 
 You start the game with 3 bottles of water. Water can be used to accelerate the hauling process. Additional water can be purchased between levels.
 - Shop Interface
-    <img src="./PresentationScreenshots/Shop/ShopInterface.png" alt="ShopInterface" width="600"/>
+<img src="./PresentationScreenshots/Shop/ShopInterface.png" alt="ShopInterface" width="600"/>
 - Price is generated randomly
-  <img src="./PresentationScreenshots/Shop/PriceRandomlyGenerated.png" alt="PriceRandomlyGenerated" width="600"/>
+<img src="./PresentationScreenshots/Shop/PriceRandomlyGenerated.png" alt="PriceRandomlyGenerated" width="600"/>
 - Number of Items changed after shopping
-  <img src="./PresentationScreenshots/Shop/AfterShopNumChanged.png" alt="AfterShopNumChanged" width="600"/>
+<img src="./PresentationScreenshots/Shop/AfterShopNumChanged.png" alt="AfterShopNumChanged" width="600"/>
 
 ## How to Win
 
@@ -90,9 +92,9 @@ You need to pass 5 levels in 20 seconds to win. High scores are stored in the da
 
 ## Game Log Stored
 Your records would be stored. The ranking includes yours and other players.
-      <img src="./PresentationScreenshots/Ranking/NewRecordGeneratedAfterGame.png" alt="NewRecordGeneratedAfterGame" width="600"/>
+<img src="./PresentationScreenshots/Ranking/NewRecordGeneratedAfterGame.png" alt="NewRecordGeneratedAfterGame" width="600"/>
 Ranking compared with other users
-      <img src="./PresentationScreenshots/Ranking.gif" alt="Ranking" width="600"/>
+<img src="./PresentationScreenshots/Ranking.gif" alt="Ranking" width="600"/>
 
 
 
