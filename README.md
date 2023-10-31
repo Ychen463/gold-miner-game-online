@@ -28,7 +28,7 @@ The Gold Miner is a classic point-based game developed in Java. The game feature
 - Java 19.0 (openjdk 19.0)
 - MySQL: mysql-connector-j-8.0.31.jar
 - Eclipse: org.eclipse.jdt.launching.JRE_CONTAINER
-
+![hierachy_tree](PresentationScreenshots/HierachyTree.png)
 ## Advanced Concepts
 
 - Collections and Graphics (Double Buffering)
